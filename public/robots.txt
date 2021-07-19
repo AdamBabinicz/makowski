@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://matejko.netlify.app/sitemap.xml
-Host: https://matejko.netlify.app
+Sitemap: https://tade.netlify.app/sitemap.xml
+Host: https://tade.netlify.app
