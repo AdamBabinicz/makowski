@@ -11,7 +11,7 @@ function ImageSection() {
     title:
       "Sztuka daje mi radość i zapomnienie, zresztą tak było od samego początku.",
     img: img1,
-    p: "Tadeusz Makowski jest jednym z najwybitniejszych artstów polskich 1 połowy XX wieku. Był malarzem, grafikiem i rysownikiem. W latach 1903-08 uczył się w Akademii krakowskiej u Józefa Unierzyskiego, Józefa Mehoffera i Jana Stanisławskiego; jednocześnie studiował filologię na Uniwersytecie Jagiellońskiem. W roku 1908, przez Monachium, wyjechał do Paryża, gdzie zamieszkał na stałe. Stamtąd wyjeżdżał na letnie sezony do Bretanii, Owerni oraz na południe Francji.",
+    p: "Tadeusz Makowski jest jednym z najwybitniejszych artstów polskich 1 połowy XX wieku. Był malarzem, grafikiem i rysownikiem. W latach 1903-08 uczył się w Akademii krakowskiej u Józefa Unierzyskiego, Józefa Mehoffera i Jana Stanisławskiego; jednocześnie studiował filologię na Uniwersytecie Jagiellońskiem. W roku 1908, przez Monachium, wyjechał do Paryża, gdzie zamieszkał na stałe.",
     em: "https://niezlasztuka.net/o-sztuce/tadeusz-makowski-o-sobie-samym",
   });
   return (
