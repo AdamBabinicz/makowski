@@ -43,6 +43,10 @@ export const PopupInner = styled.div`
   p {
     font-size: 0.8rem;
   }
+  em {
+    font-style: italic;
+    font-size: 0.7rem;
+  }
 
   @media screen and (max-width: 670px) {
     font-size: 1.4rem;
