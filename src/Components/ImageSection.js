@@ -62,7 +62,6 @@ function ImageSection() {
         <br />
         <img src={state.img} alt="..." /> <br />
         <p>{state.p}</p>
-        <br />
         <em>{state.em}</em>
         <br />
       </Popup>

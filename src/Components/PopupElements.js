@@ -44,6 +44,7 @@ export const PopupInner = styled.div`
     font-size: 0.8rem;
   }
   em {
+    margin-top: 0.5rem;
     font-style: italic;
     font-size: 0.7rem;
   }
